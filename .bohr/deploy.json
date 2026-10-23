@@ -1,0 +1,8 @@
+{
+  "directory": ".",
+  "node": "24",
+  "packageManager": "npm",
+  "install": "npm ci",
+  "build": "npm run build",
+  "secrets": []
+}
