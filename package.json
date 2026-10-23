@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-cards",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pokemon Cards Holo effect v2 — static site served from dist/",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "build": "test -f dist/index.html && echo 'Static site: dist/ is ready'"
+  }
+}

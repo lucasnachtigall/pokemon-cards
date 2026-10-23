@@ -1,0 +1,4 @@
+{
+  "command": "node dev-server.mjs",
+  "port": 8080
+}
